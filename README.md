@@ -76,8 +76,9 @@ Exibição estruturada para portfólio
 
 Curso de Banco de Dados – SENAI
 
-
 Curso de diversos de TI  (em andamento)
+
+Ensino Medio Completo
 
 # 📈 Objetivo Profissional
 
