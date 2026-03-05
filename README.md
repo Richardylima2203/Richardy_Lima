@@ -1,6 +1,6 @@
 # 🚀 Richardy_Lima
 
-🎯 Analista de Dados Jr em formação
+🎯 Administrador de Banco de Dados em formação
 📍 São Paulo - SP
 📊 Foco em SQL | Python | Banco de Dados | Análise de Dados
 
@@ -19,7 +19,7 @@ Estrutura e normalização de bancos de dados
 
 Desenvolvimento de apps e jogos mobile
 
-# Meu objetivo é conquistar minha primeira oportunidade como Analista de Dados Jr, onde eu possa aplicar meus conhecimentos técnicos e evoluir profissionalmente.
+# Meu objetivo é conquistar minha primeira oportunidade como jovem aprendiz ou CLT efetivo na area de TI, onde eu possa aplicar meus conhecimentos técnicos e evoluir profissionalmente.
 
 🛠️ Tecnologias e Ferramentas
 
@@ -74,15 +74,17 @@ Exibição estruturada para portfólio
 
 # 📚 Formação
 
-Curso de Banco de Dados – SENAI
+Curso de Banco de Dados – SENAI (Conclusão: 2026)
 
-Curso de diversos de TI  (em andamento)
+Curso Preparação para o trabalho (PPT) (Conclusão: 2024)
 
-Ensino Medio Completo
+Curso de Desenvolvedor Tecnológico - BMS  (Conclusão: 2027)
+
+Ensino Medio Completo (Conclusão: 2025)
 
 # 📈 Objetivo Profissional
 
-Atuar como Analista de Dados Jr, contribuindo com:
+Atuar como Analista de Banco de Dados Jr, contribuindo com:
 
 ✔ Extração e análise de dados
 ✔ Criação de relatórios
